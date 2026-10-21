@@ -1,1 +1,1 @@
-# Mi-terapeuta-auxiliar
+npx plugins add vercel/vercel-plugin
